@@ -1,4 +1,4 @@
-const number = 101;
+const number = 70;
 
 if((number >= 80) && (number <= 100)){
     console.log("You Get A+");
